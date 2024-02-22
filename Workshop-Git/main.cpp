@@ -8,10 +8,10 @@ int addValues(int a, int b)
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "My name is {Your Name Here}!\n";
-    std::cout << "Today is {Date Here}!\n";
+    std::cout << "My name is Joe Smith!\n";
+    std::cout << "Today is 1/1/1990!\n";
 
-    int a = 2;
-    int b = 7;
+    int a = 212;
+    int b = 129;
     std::cout << "Adding these numbers equals... " << addValues(a, b) << "\n";
 }
