@@ -90,13 +90,13 @@ Now, we're going to try a different feature called **branching.** Branching is a
 
 _Create a new branch called "adding." To do this in GitHub Desktop, simply click the **Current Branch** button and then select **New branch.** From here, implement the logic neccessary for addValues to function correctly. Then, commit your work on the "adding" branch and push it to the remote repository as we did before._
 
-5. **Merging:** Merge that first branch into main.
+6. **Merging:** Merge that first branch into main.
 
 To merge a branch back into main, the shared codebase that all the developers use, we'll need to switch back to main using the button at **Current Branch** dropdown and then selecting main. From there, simply select the **Choose a branch to merge into main** button on the bottom of the **Current Branch** dropdown, and then select your branch, _"adding."_ Then, push those changes.
 
 _Examine the codebase on your GitHub page. Are your changes to addValues there?_
 
-6. **Conflicts:** Merge the existing branch called _"conflicts"_ into your repository and resolve its merge conflicts.
+7. **Conflicts:** Merge the existing branch called _"conflicts"_ into your repository and resolve its merge conflicts.
 
 Sometimes, when you merge branches or make commits, you will create merge conflicts that need to be resolved before the source control system will allow you to proceed. To experience this, merge the _"conflicts"_ branch into main, just as you did before with _"adding."_ 
 
