@@ -8,8 +8,9 @@ This repository provides the workspace for an intro to Git and Source Control wo
 ## Downloads
 Here is a list of downloads that will be needed to run the software as part of this activity. Please set these up before beginning the activity.
 
-- [Git]([url](https://git-scm.com/downloads))
-- [GitHub Desktop]([url](https://desktop.github.com/))
+[Git](https://git-scm.com/downloads)
+
+[GitHub Desktop](https://desktop.github.com/)
 
 ## What is Source Control?
 Source control is an essential and commonly used tool in software development. Source control supports **Version Control**, sets up a **Remote Repository** as a shared instance of the codebase, and enables **Multi-Developer Collaboration.**
